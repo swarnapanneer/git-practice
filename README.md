@@ -21,7 +21,9 @@ this is a repository for all git commands practice
 
 10.git tag = give tags to specific command
 
-11.git diff = shows the file diferences which are not yet staged
+11.git diff = shows the file differences which are not yet staged
+
+12.git reset = undo the file from staging area
 
 12.git fetch = fetch all the latest commits
 
